@@ -84,18 +84,3 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
-
-/* Add this CSS at the end of your existing CSS */
-
-.resume-button {
-    background-color: #007bff;
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-}
-
-.resume-button:hover {
-    background-color: #0056b3;
-}
